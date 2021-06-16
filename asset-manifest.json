@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Currency-Converter--EN-CRMS--ReactApp/static/css/main.aacc3532.chunk.css",
+    "main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.77f4b2ea.chunk.js",
+    "main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.77f4b2ea.chunk.js.map",
+    "runtime-main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.527a637b.js",
+    "runtime-main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.527a637b.js.map",
+    "static/js/2.24df3f07.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.24df3f07.chunk.js",
+    "static/js/2.24df3f07.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.24df3f07.chunk.js.map",
+    "static/js/3.572a7bbd.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.572a7bbd.chunk.js",
+    "static/js/3.572a7bbd.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.572a7bbd.chunk.js.map",
+    "index.html": "/Currency-Converter--EN-CRMS--ReactApp/index.html",
+    "static/css/main.aacc3532.chunk.css.map": "/Currency-Converter--EN-CRMS--ReactApp/static/css/main.aacc3532.chunk.css.map",
+    "static/js/2.24df3f07.chunk.js.LICENSE.txt": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.24df3f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.527a637b.js",
+    "static/js/2.24df3f07.chunk.js",
+    "static/css/main.aacc3532.chunk.css",
+    "static/js/main.77f4b2ea.chunk.js"
+  ]
+}
