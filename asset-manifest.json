@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/Currency-Converter--EN-CRMS--ReactApp/static/css/main.e07e33ec.chunk.css",
-    "main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.ecb826df.chunk.js",
-    "main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.ecb826df.chunk.js.map",
-    "runtime-main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.038288b8.js",
-    "runtime-main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.038288b8.js.map",
-    "static/js/2.6cc6e09e.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.6cc6e09e.chunk.js",
-    "static/js/2.6cc6e09e.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.6cc6e09e.chunk.js.map",
-    "static/js/3.fceaa004.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fceaa004.chunk.js",
-    "static/js/3.fceaa004.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fceaa004.chunk.js.map",
+    "main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.f88a7be3.chunk.js",
+    "main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.f88a7be3.chunk.js.map",
+    "runtime-main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.f2c17083.js",
+    "runtime-main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.f2c17083.js.map",
+    "static/js/2.3ec80ffc.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js",
+    "static/js/2.3ec80ffc.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js.map",
+    "static/js/3.fcaf4230.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fcaf4230.chunk.js",
+    "static/js/3.fcaf4230.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fcaf4230.chunk.js.map",
     "index.html": "/Currency-Converter--EN-CRMS--ReactApp/index.html",
-    "static/css/main.e07e33ec.chunk.css.map": "/Currency-Converter--EN-CRMS--ReactApp/static/css/main.e07e33ec.chunk.css.map",
-    "static/js/2.6cc6e09e.chunk.js.LICENSE.txt": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.6cc6e09e.chunk.js.LICENSE.txt"
+    "static/js/2.3ec80ffc.chunk.js.LICENSE.txt": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.038288b8.js",
-    "static/js/2.6cc6e09e.chunk.js",
-    "static/css/main.e07e33ec.chunk.css",
-    "static/js/main.ecb826df.chunk.js"
+    "static/js/runtime-main.f2c17083.js",
+    "static/js/2.3ec80ffc.chunk.js",
+    "static/js/main.f88a7be3.chunk.js"
   ]
 }
