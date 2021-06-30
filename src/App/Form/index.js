@@ -3,7 +3,7 @@ import { currencies } from "../currencies";
 import { Clock } from "./Clock";
 import { Result } from "./Result";
 import Projects from "./Projects";
-import "./index.css";
+import { Button, Field, Header, Info, LabelText, Asterisk, ParagraphWarning } from "./styled";
 
 export const Form = ({ calculateResult, result }) => {
   const [currency, setCurrency] = useState(currencies[1].short);
@@ -15,16 +15,16 @@ export const Form = ({ calculateResult, result }) => {
   }
 
   return (
-    <form className="form" onSubmit={onSubmit}>
+    <form onSubmit={onSubmit}>
       <Clock />
       <Projects />
-      <h1 className="form__header">Currency Converter</h1>
+      <Header>Currency Converter</Header>
       <p>
-        <p className="form__paragraphWarning">Converting from PLN (PL) <span className="form__span--asterisk">*</span></p>
+        <ParagraphWarning>Converting from PLN (PL)<Asterisk> *</Asterisk></ParagraphWarning>
         <label>
-          <span className="form__labelText form__labelText--lightslategrey">Amount in <span
-              className="form__span--asterisk">*</span> :</span>
-          <input 
+          <LabelText lightslategrey>Amount in 
+          <Asterisk> *</Asterisk> :</LabelText>
+          <Field 
             value={amount}
             onChange={({ target }) => setAmount(target.value)}
             type="number" 
@@ -38,9 +38,9 @@ export const Form = ({ calculateResult, result }) => {
       </p>
       <p>
         <label>
-          <span className="form__labelText">Currency:</span>
-          <select 
-            className="form__field"
+          <LabelText crimson>Currency:</LabelText>
+          <Field 
+            as="select"
             value={currency}
             onChange={({ target }) => setCurrency(target.value)}
           >
@@ -52,14 +52,18 @@ export const Form = ({ calculateResult, result }) => {
                 {currency.name}
               </option>
             )))}
-          </select>
+          </Field>
         </label>
       </p>
       <p>
-        <button className="form__buttonText">Convert!</button>
+        <Button>Convert!</Button>
       </p>
-      <p className="form__info">The rates are taken from the table nr 002/A/NBP/2021 from 2020-01-05</p>
+
+      <Info>
+        The rates are taken from the table nr 002/A/NBP/2021 from 2020-01-05
+      </Info>
+      
       <Result result={result} />
-      </form>
+    </form>
   );
 }; 
