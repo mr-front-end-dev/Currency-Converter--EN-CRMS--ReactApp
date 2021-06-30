@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { currencies } from "../currencies";
 import { Result } from "./Result";
+import Projects from "./Projects";
 import "./index.css";
 
 export const Form = ({ calculateResult, result }) => {
@@ -14,6 +15,7 @@ export const Form = ({ calculateResult, result }) => {
 
   return (
     <form className="form" onSubmit={onSubmit}>
+      <Projects />
       <h1 className="form__header">Currency Converter</h1>
       <p>
         <p className="form__paragraphWarning">Converting from PLN (PL) <span className="form__span--asterisk">*</span></p>
