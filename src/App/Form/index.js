@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { currencies } from "../currencies";
+import { Clock } from "./Clock";
 import { Result } from "./Result";
 import Projects from "./Projects";
 import "./index.css";
@@ -15,6 +16,7 @@ export const Form = ({ calculateResult, result }) => {
 
   return (
     <form className="form" onSubmit={onSubmit}>
+      <Clock />
       <Projects />
       <h1 className="form__header">Currency Converter</h1>
       <p>

@@ -4,6 +4,7 @@ import { Form } from './Form';
 import { currencies } from './currencies';
 
 function App () {
+
   const [result, setResult] = useState();
 
   const calculateResult = (currency, amount) => {
