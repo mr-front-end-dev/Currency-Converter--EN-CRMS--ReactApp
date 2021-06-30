@@ -1,5 +1,5 @@
-[Code: ](https://github.com/mr-front-end-dev/Currency-Converter--EN-CRMS--ReactApp)
-### [Demo: ](https://mr-front-end-dev.github.io/Currency-Converter--EN-CRMS--ReactApp/)
+# [Code: ](https://github.com/mr-front-end-dev/Currency-Converter--EN-CRMS--ReactApp)
+# [Demo: ](https://mr-front-end-dev.github.io/Currency-Converter--EN-CRMS--ReactApp/)
 
 # Getting Started with Create React App
 
