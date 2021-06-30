@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.f88a7be3.chunk.js",
-    "main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.f88a7be3.chunk.js.map",
-    "runtime-main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.f2c17083.js",
-    "runtime-main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.f2c17083.js.map",
-    "static/js/2.3ec80ffc.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js",
-    "static/js/2.3ec80ffc.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js.map",
-    "static/js/3.fcaf4230.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fcaf4230.chunk.js",
-    "static/js/3.fcaf4230.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.fcaf4230.chunk.js.map",
+    "main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.b7196f24.chunk.js",
+    "main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/main.b7196f24.chunk.js.map",
+    "runtime-main.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.a1833129.js",
+    "runtime-main.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/runtime-main.a1833129.js.map",
+    "static/js/2.715f42bf.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.715f42bf.chunk.js",
+    "static/js/2.715f42bf.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.715f42bf.chunk.js.map",
+    "static/js/3.e7f01a54.chunk.js": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.e7f01a54.chunk.js",
+    "static/js/3.e7f01a54.chunk.js.map": "/Currency-Converter--EN-CRMS--ReactApp/static/js/3.e7f01a54.chunk.js.map",
     "index.html": "/Currency-Converter--EN-CRMS--ReactApp/index.html",
-    "static/js/2.3ec80ffc.chunk.js.LICENSE.txt": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.3ec80ffc.chunk.js.LICENSE.txt"
+    "static/js/2.715f42bf.chunk.js.LICENSE.txt": "/Currency-Converter--EN-CRMS--ReactApp/static/js/2.715f42bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2c17083.js",
-    "static/js/2.3ec80ffc.chunk.js",
-    "static/js/main.f88a7be3.chunk.js"
+    "static/js/runtime-main.a1833129.js",
+    "static/js/2.715f42bf.chunk.js",
+    "static/js/main.b7196f24.chunk.js"
   ]
 }
