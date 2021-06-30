@@ -5,7 +5,7 @@ import Projects from "./Projects";
 import "./index.css";
 
 export const Form = ({ calculateResult, result }) => {
-  const [currency, setCurrency] = useState(currencies[7].short);
+  const [currency, setCurrency] = useState(currencies[1].short);
   const [amount, setAmount] = useState("");
 
   const onSubmit = (event) => {
